@@ -35,7 +35,7 @@ Loyal Customers	50-75	3.75	$1,235	$4,630
 Need Attention	25-50	2.99	$746	$2,229
 Hibernating 	>= 25 Percentile	2.55	$365	$930
 
-We can 
+Recommendations 
 Offer specific products to each segment
 Create a marketing plan to increase CLV for lower segment
 Try to focus on the higher segments in order to decrease customer acquisition costs.
